@@ -10,9 +10,15 @@
   },
   "dependencies": {
     "expo": "~48.0.9",
+    "expo-av": "~13.2.1",
+    "expo-constants": "^14.2.1",
+    "expo-file-system": "~15.2.2",
+    "expo-font": "~11.1.1",
     "expo-status-bar": "~1.4.4",
     "react": "18.2.0",
-    "react-native": "0.71.4"
+    "react-native": "0.71.4",
+    "react-native-responsive-fontsize": "^0.5.1",
+    "react-native-textstroke": "^1.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
